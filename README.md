@@ -1,4 +1,4 @@
-# 🎓 EduMentor.AI
+# EduMentor.AI
 
 ### Personalized AI Tutor & Intelligent Grading System powered by Gemma 4
 
@@ -69,7 +69,7 @@ SQL Server Database
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```
 EduMentor.AI.sln
@@ -122,7 +122,7 @@ POST /api/grading/evaluate
   "rubric": "Accuracy (5), Clarity (5), Completeness (5)"
 }
 ```
-## 🧠 Use of Gemma 4
+## Use of Gemma 4
 
 Gemma 4 is used for:
 
@@ -156,7 +156,7 @@ Gemma 4 is used for:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Voice-based AI tutor
 * Multilingual support
