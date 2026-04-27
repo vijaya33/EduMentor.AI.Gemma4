@@ -168,6 +168,8 @@ Gemma 4 is used for:
 
 --- This project is licensed under the MIT License.
 
+### Author / Developer: Vijaya Laxmi Kumbaji - Principal Software Engineer | AI/ML Programmer
+
 
 
 ---
